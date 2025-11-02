@@ -1,4 +1,4 @@
-# MAIBOOK Python Tutorial Portal
+# Python Tutorial Portal
 
 ## Overview
 MAIBOOK is a static web app that presents a multi-part Python tutorial series. The site loads Markdown chapters on demand, converts them to HTML with `marked`, and applies syntax highlighting with `highlight.js`, giving learners an interactive documentation-style reading experience.
